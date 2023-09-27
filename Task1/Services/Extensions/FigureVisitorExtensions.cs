@@ -1,7 +1,7 @@
 ﻿using Task1.Models;
 using Task1.Models.Figures;
 
-namespace Task1.Services.Extensions
+namespace Task1.Services.Visitors
 {
     public static class FigureVisitorExtensions
     {
